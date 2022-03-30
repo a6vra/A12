@@ -96,8 +96,9 @@ aside h3{
 	padding-bottom: .25em;
 }
 
-aside image{
+aside img{
 	padding-bottom: 1em;
+	margin-top: -20px;
 }
 .shadow {
 	text-shadow: #800000;
