@@ -150,9 +150,9 @@ article h1{
 
 article img{
 	float: right;
-	margin-top: 1px;
-	margin-bottom: 1px;
-	margin-left: 1px;
+	margin-top: 10px;
+	margin-bottom: 2px;
+	margin-left: 20px;
 	border: 1px solid black;
 }
 
