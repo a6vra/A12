@@ -29,7 +29,7 @@ section h1{
 }
 section h2{
 	color: black;
-	font-size: 10px;
+	font-size: 5px;
 }
 
 section img{
@@ -40,6 +40,9 @@ section img{
 	border: 1px solid black;
 }
 
+section p{
+	text-align: left;
+}
 
 /* the styles for the header */
 
@@ -58,7 +61,6 @@ header img {
 header h2 {
 	font-size: 170%;
 	color: #800000;
-
 }
 
  header h3 {
@@ -105,7 +107,6 @@ main {
 
 main h2 {
 	font-size: 130%;
-	color: #800000;
 	padding-top: .5em;
 	padding-bottom: .25em;
 }
