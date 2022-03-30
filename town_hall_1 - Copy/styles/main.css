@@ -49,12 +49,40 @@ header h2 {
 
 }
 
+section {
+	width: 525px;
+	float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+
+	background-color: #fffded;
+}
+
+aside {
+	width: 215px;
+	float: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
+
+	background-color: #fffded;
+}
+
+aside h3{
+	font-size: 105%;
+	padding-bottom: .25em;
+}
+
+aside image{
+	padding-bottom: 1em;
+}
 .shadow {
 	text-shadow: #800000;
 }
 /* the styles for the section */
 main {
 	clear: left;
+	background-color: #fffded;
 }
 
 main h2 {
@@ -99,20 +127,6 @@ a:hover{
 	font-style: italic;
 }
 
-section {
-	width: 525px;
-	float: right;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 20px;
-}
-
-aside {
-	width: 215px;
-	float: right;
-	padding-left: 20px;
-	padding-bottom: 20px;
-}
 
 /* the styles for the footer */
 footer{
