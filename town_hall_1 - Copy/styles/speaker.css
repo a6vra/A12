@@ -30,6 +30,7 @@ section h1{
 section h2{
 	color: black;
 	font-size: 5px;
+	margin-top: -18px;
 }
 
 section img{
@@ -42,6 +43,7 @@ section img{
 
 section p{
 	text-align: left;
+	font-size: 15.5px;
 }
 
 /* the styles for the header */
