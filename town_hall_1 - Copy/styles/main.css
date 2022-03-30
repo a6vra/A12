@@ -161,7 +161,7 @@ article img{
 /* the styles for the footer */
 footer{
 	background-color:#931420;
-	clear: left;
+	clear: both;
 }
 footer p{
 	color: white;

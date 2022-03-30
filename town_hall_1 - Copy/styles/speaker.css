@@ -44,6 +44,7 @@ section img{
 section p{
 	text-align: left;
 	font-size: 15.5px;
+	background-color: #fffded;
 }
 
 /* the styles for the header */
@@ -152,7 +153,7 @@ a:hover{
 /* the styles for the footer */
 footer{
 	background-color:#931420;
-	clear: left;
+	clear: both;
 }
 footer p {
 	color: white;
